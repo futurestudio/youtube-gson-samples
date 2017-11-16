@@ -1,0 +1,18 @@
+{
+  "name": "Future Studio Dev Team",
+  "website": "https://futurestud.io",
+  "founders": [
+    {
+      "name": "Christian",
+      "flowerCount": 1
+    },
+    {
+      "name": "Marcus",
+      "flowerCount": 3
+    },
+    {
+      "name": "Norman",
+      "flowerCount": 2
+    }
+  ]
+}

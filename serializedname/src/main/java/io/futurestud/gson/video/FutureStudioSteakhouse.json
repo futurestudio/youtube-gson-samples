@@ -1,0 +1,22 @@
+{
+  "name": "Future Studio Steak House",
+  "owner": {
+    "name": "Christian",
+    "address": {
+      "city": "Magdeburg",
+      "country": "Germany",
+      "houseNumber": "42A",
+      "street": "Main Street"
+    }
+  },
+  "cook": {
+    "age": 18,
+    "name": "Marcus",
+    "salary": 1500
+  },
+  "waiter": {
+    "age": 18,
+    "name": "Norman",
+    "salary": 1000
+  }
+}
